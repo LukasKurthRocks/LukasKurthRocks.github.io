@@ -18,16 +18,18 @@ Der Stand von c't ist aber eher speziell. Komisch finde ich auch, dass heise.de 
 
 ### Wofür MoScripts stehen soll?
 [TenForums - Win10XPE - Build Your Own Rescure Media (Page 83, KYHI)](https://www.tenforums.com/software-apps/117664-win10xpe-build-your-own-rescue-media-83.html)\
-MyPlugins are part of the Release - this keeps it small, simple, and just the basics..
+MyPlugins are part of the Release - this keeps it small, simple, and just the basics..\
 MoPlugins are **Member Optional Additional Plugins (Apps)** as synced with my PC (via a Mega Download Utility) to enhance the project... 
 
 # Anderes
 - Dateien ... https://github.com/LukasKurthRocks/Windows-10-Custom-ISO/tree/main/Data
 
 ## Desktop Shortcuts
-==> [TenForums - Win10XPE - Build Your Own Rescure Media (Page 83, KYHI)](https://www.tenforums.com/software-apps/117664-win10xpe-build-your-own-rescue-media-104.html)\
+==> [TenForums - Win10XPE - Build Your Own Rescure Media (Page 104, Matthew Wai)](https://www.tenforums.com/software-apps/117664-win10xpe-build-your-own-rescue-media-104.html)\
 In "D:\Win10XPE\Custom\Pecmdini\pecmd.ini", under the line "_SUB Shortcuts", add the following line:
 LINK %Desktop%\App name,"X:\The file path\Application.exe"
 
 # Zu Erledigen
-- [ ] \Downloads zu D:\Users\Lukas\Desktop\WindowsBakery
+- [ ] \Downloads zu D:\Users\Lukas\Desktop\WindowsBakery (Blockiert vom Firefox? WTF?)
+- [ ] Windows ISO erstellen (privat und business)
+- [ ] Pläne erstellen (Zettelchaos)

@@ -1,5 +1,5 @@
 ﻿---
-title: Custom
+title: Markdown Sample Page
 published: true
 ---
 

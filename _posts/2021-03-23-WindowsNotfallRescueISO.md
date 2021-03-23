@@ -12,9 +12,9 @@ Ich habe die letzten Tage noch einmal meine c't-Hefte durchgeblättert. Dabei ha
 # Aktuelle Schritte
 
 ## 2021-03-23 Unterschiedliche Stände
-Mein Problem aktuell ist noch, dass ich ein System basteln möchte, welches sich nicht nur für Privatanwender, sondern eventuell auch für speziellere Einsätze eignet.
+Mein Problem aktuell ist noch, dass ich ein System basteln möchte, welches sich nicht nur für Privatanwender, sondern eventuell auch für speziellere Einsätze eignet. Der Stand von c't ist aber eher speziell, könnte natürlich an PEBakery liegen. So werden scheinbar die MoScripts-Sachen ausblendet. Vielleicht kann ich da mal herausfinden warum. Wie viel Zeit müsste ich dafür aufwenden?
 
-Der Stand von c't ist aber eher speziell. Komisch finde ich auch, dass heise.de scheinbar die MoScripts-Sachen ausblendet. Vielleicht kann ich da mal herausfinden warum. Wie viel Zeit müsste ich dafür aufwenden? Beim aktuellen Stand müsste ich die Win10XPE laden, dann die von c't. Über Win10XPE lade ich alle Date die ich brauche (MEGA Download), dann kopiert ich die PEBakery-Version von c't in den Ordner mit rein und kopiere alle Daten von MoScripts\Apps in MyScripts\Apps\MoApps (kann auch anders heißen). Dann tauchen die auch in der Liste links mit auf (Screenshots könnten folgen).
+Beim aktuellen Stand müsste ich die Win10XPE laden, dann die von c't. Über Win10XPE lade ich alle Date die ich brauche (MEGA Download), dann kopiert ich die PEBakery-Version von c't in den Ordner mit rein und kopiere alle Daten von MoScripts\Apps in MyScripts\Apps\MoApps (kann auch anders heißen). Dann tauchen die auch in der Liste links mit auf (Screenshots könnten folgen).
 
 ### Wofür MoScripts stehen soll?
 [TenForums - Win10XPE - Build Your Own Rescure Media (Page 83, KYHI)](https://www.tenforums.com/software-apps/117664-win10xpe-build-your-own-rescue-media-83.html)\
@@ -25,8 +25,8 @@ MoPlugins are **Member Optional Additional Plugins (Apps)** as synced with my PC
 - Dateien ... https://github.com/LukasKurthRocks/Windows-10-Custom-ISO/tree/main/Data
 
 ## Desktop Shortcuts
-==> [TenForums - Win10XPE - Build Your Own Rescure Media (Page 104, Matthew Wai)](https://www.tenforums.com/software-apps/117664-win10xpe-build-your-own-rescue-media-104.html)\
-In "D:\Win10XPE\Custom\Pecmdini\pecmd.ini", under the line "_SUB Shortcuts", add the following line:
+[TenForums - Win10XPE - Build Your Own Rescure Media (Page 104, Matthew Wai)](https://www.tenforums.com/software-apps/117664-win10xpe-build-your-own-rescue-media-104.html)\
+In "D:\Win10XPE\Custom\Pecmdini\pecmd.ini", under the line "_SUB Shortcuts", add the following line:\
 LINK %Desktop%\App name,"X:\The file path\Application.exe"
 
 # Zu Erledigen

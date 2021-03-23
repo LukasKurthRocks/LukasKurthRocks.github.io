@@ -3,7 +3,7 @@ layout: page
 title: Über
 ---
 
-[GitHub - Profile Page]("{{ site.github.owner_url }}").
+[GitHub - Profile Page]({{ site.github.owner_url }}).
 @LukasKurthRocks
 
 {% if site.github.is_user_page %}

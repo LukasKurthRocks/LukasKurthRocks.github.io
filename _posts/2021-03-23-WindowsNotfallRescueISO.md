@@ -1,6 +1,6 @@
 ﻿---
 title: Mein eigenes Windows Notfall Image
-published: true
+published: false
 ---
 
 ⚠ WIRD NOCH ERWEITERT ⚠

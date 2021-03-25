@@ -1,6 +1,6 @@
 ﻿---
 title: Paketmanager in Windows
-published: true
+published: false
 ---
 
 **Info**: Im Mai 2021 kommt nach der offiziellen Roadmap der Paketmanager in Version 1 raus. Dann wird möglicherweise das AppInstaller Paket im Store aktualisiert.
